@@ -1,11 +1,11 @@
 {
-  "short_name": "Rajanding",
-  "name": "Ecommerce Rajanding",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
-      "src": "./favicon.png",
+      "src": "images/logo/favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/png"
+      "type": "image/x-icon"
     },
     {
       "src": "images/logo/logo192.png",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "./rajanding/",
   "display": "standalone",
   "theme_color": "#F8F9FA",
   "background_color": "#ffffff"
